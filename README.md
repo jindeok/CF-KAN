@@ -8,7 +8,7 @@
 
 (For KAN implementation, I've refered to this repo: https://github.com/Blealtan/efficient-kan)
 
-## Installation
+## Running 
 To get started with CF-KAN, clone the repository and install the required dependencies (pytorch and scipy, etc)
 
 If you are ready, test it with the notebook file (**CF-KAN.ipynb**)
