@@ -6,6 +6,7 @@
 
 **CF-KAN** is a **recommendation system (collaborative filtering) based on the Kolmogorov-Arnold Network (KAN) approach**. This project leverages and explores the power of KAN for CF-based recommendation.
 
+(For KAN implementation, I've refered to this repo: https://github.com/Blealtan/efficient-kan)
 
 ## Installation
 To get started with CF-KAN, clone the repository and install the required dependencies (pytorch and scipy, etc)
@@ -26,4 +27,4 @@ We found only 10 epochs training on MovieLens-1M produces **pretty convincing re
 
 !! If you found this project is helpful for your research, please STAR this repository
 
-!! For KAN implementation, I've used this repo: https://github.com/Blealtan/efficient-kan
+
