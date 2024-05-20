@@ -14,7 +14,7 @@ To get started with CF-KAN, clone the repository and install the required depend
 If you are ready, test it with the notebook file (**CF-KAN.ipynb**)
 
 
-## Priliminary results
+## Preliminary results
 
 Dataset : ML-1M
 
