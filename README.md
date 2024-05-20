@@ -26,3 +26,4 @@ We found only 10 epochs training on MovieLens-1M produces **pretty convincing re
 
 !! If you found this project is helpful for your research, please STAR this repository
 
+!! For KAN implementation, I've used this repo: https://github.com/Blealtan/efficient-kan
