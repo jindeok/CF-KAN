@@ -29,6 +29,6 @@ We found only 10 epochs training on MovieLens-1M produces **pretty convincing re
 
 
 ## Citation
-If our work was helpful for your project, includes cite our work :)
+If our work was helpful for your project, cite our work :)
 
 ** Once the paper is uploaded to arXiv soon, we will provide instructions on how to cite it.
