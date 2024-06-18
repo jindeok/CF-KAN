@@ -16,16 +16,20 @@ If you are ready, test it with the notebook file (**CF-KAN.ipynb**)
 
 ## Preliminary results
 
-Dataset : ML-1M
+ML1M 
+- Recall@20:  0.1791
+- NDCG@20:  0.1117
 
-We found only 10 epochs training on MovieLens-1M produces **pretty convincing results!**
-- Recall@20: **0.2013**
-- NDCG@20: **0.1315**
+Yelp
+
+- Recall@20: 0.0710
+- NDCG@20: 0.0353
 
 
-!! We will keep update this project! open to new collaboration :)
 
-!! If you found this project is helpful for your research, please STAR this repository
+We will keep update this project. 
+
+If you found this project is helpful for your research, please STAR this repository
 
 
 ## Citation
