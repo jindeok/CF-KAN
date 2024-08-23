@@ -18,7 +18,7 @@ If you are ready, test it with
 
 
 
-## Recommendation Accuracy
+## The Results (Recommendation Accuracy)
 
 
 We comprehensively compare CF-KAN with the following categories of recommendation models: 
