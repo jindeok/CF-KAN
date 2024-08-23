@@ -57,4 +57,5 @@ If our work was helpful for your project, cite our work :)
 
 
 ## Etc.
-For the implementation of KANs, I've refered to the following repos: https://github.com/Blealtan/efficient-kan, https://github.com/KindXiaoming/pykan
+For the implementation of KANs, I've referred to the following repos: [EfficentKAN](https://github.com/Blealtan/efficient-kan), [Visualization API](https://github.com/KindXiaoming/pykan)
+
