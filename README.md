@@ -9,25 +9,20 @@
 (For KAN implementation, I've refered to this repo: https://github.com/Blealtan/efficient-kan)
 
 ## Running 
-To get started with CF-KAN, clone the repository and install the required dependencies (pytorch and scipy, etc)
+To get started with CF-KAN, clone the repository and install the required dependencies (pytorch and numpy, etc)
 
-If you are ready, test it with the notebook file (**CF-KAN.ipynb**)
+If you are ready, test it with
 
-
-## Preliminary results
-
-ML1M 
-- Recall@20:  0.1791
-- NDCG@20:  0.1117
-
-Yelp
-
-- Recall@20: 0.0710
-- NDCG@20: 0.0353
+`python main.py`
 
 
 
-We will keep update this project. 
+
+## Recommendation Accuracy
+
+...
+
+
 
 If you found this project is helpful for your research, please STAR this repository
 
