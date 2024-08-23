@@ -2,7 +2,8 @@
 
 ## KAN (Kolmogorov-Arnold Network)-based Collaborative Filtering (CF)
 
-![그림1](https://github.com/jindeok/CF-KAN/assets/35905280/a9b4ca1d-07e4-497b-9ec1-57454475f431)
+<img src="https://github.com/user-attachments/assets/4387006d-48ab-4f84-a6a3-0ed83982c442" alt="overview_v2" width="400" height="300">
+
 
 **CF-KAN** is a **recommendation system (collaborative filtering) based on the Kolmogorov-Arnold Network (KAN, https://arxiv.org/abs/2404.19756) approach**. This project leverages and explores the power of KAN for CF-based recommendation.
 
