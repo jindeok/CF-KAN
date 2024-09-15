@@ -54,7 +54,12 @@ If you found this project is helpful for your research, please STAR this reposit
 ## Citation
 If our work was helpful for your project, cite our work :)
 
-** Once the paper is uploaded to arXiv soon, we will provide instructions on how to cite it.
+@article{park2024cf,
+  title={CF-KAN: Kolmogorov-Arnold Network-based Collaborative Filtering to Mitigate Catastrophic Forgetting in Recommender Systems},
+  author={Park, Jin-Duk and Kim, Kyung-Min and Shin, Won-Yong},
+  journal={arXiv preprint arXiv:2409.05878},
+  year={2024}
+}
 
 
 ## Etc.
