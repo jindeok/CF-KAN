@@ -48,7 +48,7 @@ We comprehensively compare CF-KAN with the following categories of recommendatio
 
 
 
-If you found this project is helpful for your research, please STAR this repository
+If you found this project is helpful for your research, 🌟STAR🌟 this repository
 
 
 ## Citation
