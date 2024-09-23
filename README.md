@@ -11,9 +11,6 @@
 
 
 ## Running 
-To get started with CF-KAN, clone the repository and install the required dependencies (pytorch and numpy, etc)
-
-If you are ready, test it with
 
 `python main.py`
 
