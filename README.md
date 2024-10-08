@@ -1,6 +1,6 @@
 # CF-KAN
 
-## KAN (Kolmogorov-Arnold Network)-based Collaborative Filtering (CF)
+## KAN (Kolmogorov-Arnold Network)-based Recommender System (Collaborative Filtering (CF))
 
 <img src="https://github.com/user-attachments/assets/4387006d-48ab-4f84-a6a3-0ed83982c442" alt="overview_v2" width="400" height="300">
 
