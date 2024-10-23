@@ -30,7 +30,7 @@ def seed_worker(worker_id):
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--dataset', type=str, default='ML-1M', help='choose the dataset ML-1M/Yelp/Anime')
-parser.add_argument('--data_path', type=str, default='../datasets/', help='load data path')
+parser.add_argument('--data_path', type=str, default='datasets/', help='load data path')
 parser.add_argument('--lr', type=float, default=1e-4, help='learning rate')
 parser.add_argument('--weight_decay', type=float, default=0.3)
 parser.add_argument('--batch_size', type=int, default=256)
@@ -41,6 +41,7 @@ parser.add_argument('--cuda', action='store_true', help='use CUDA')
 parser.add_argument('--gpu', type=str, default='0', help='gpu card ID')
 parser.add_argument('--save_path', type=str, default='../saved_models/', help='save model path')
 parser.add_argument('--log_name', type=str, default='log', help='the log name')
+parser.add_argument('--tst_w_val', default=False, help='True or False')
 parser.add_argument('--round', type=int, default=1, help='record the experiment')
 
 parser.add_argument('--dims', type=str, default='[512]', help='the dims for the DNN')
@@ -57,9 +58,9 @@ device = torch.device("cuda" )
 print("Starting time: ", time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time())))
 
 # Load data
-train_path = args.data_path + args.dataset + 'train_list.npy'
-valid_path = args.data_path + args.dataset + 'valid_list.npy'
-test_path = args.data_path + args.dataset + 'test_list.npy'
+train_path = args.data_path + args.dataset + '/train_list.npy'
+valid_path = args.data_path + args.dataset + '/valid_list.npy'
+test_path = args.data_path + args.dataset + '/test_list.npy'
 
 train_data, valid_y_data, test_y_data, n_user, n_item = data_utils.data_load(train_path, valid_path, test_path)
 train_dataset = data_utils.Data(torch.FloatTensor(train_data.A))
