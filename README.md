@@ -7,7 +7,6 @@
 
 **CF-KAN** is a **recommendation method (collaborative filtering) based on the Kolmogorov-Arnold Network (KAN) approach**. This research leverages and explores the power of KAN for CF-based recommendation.
 
-** Our paper (CF-KAN) is now available at arXiv: https://www.arxiv.org/abs/2409.05878**
 
 
 ## Running 
@@ -49,19 +48,7 @@ If you found this project is helpful for your research, 🌟STAR🌟 this reposi
 
 
 ## Citation
-If our work was helpful for your project, cite our work :)
-
-@article{park2024cf,
-
-  title={CF-KAN: Kolmogorov-Arnold Network-based Collaborative Filtering to Mitigate Catastrophic Forgetting in Recommender Systems},
-  
-  author={Park, Jin-Duk and Kim, Kyung-Min and Shin, Won-Yong},
-  
-  journal={arXiv preprint arXiv:2409.05878},
-  
-  year={2024}
-}
-
+** TBD (double-blind review)
 
 ## Etc.
 For the implementation of KANs, I've referred to the following repos: [EfficentKAN](https://github.com/Blealtan/efficient-kan), [Visualization API](https://github.com/KindXiaoming/pykan)
