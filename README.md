@@ -48,7 +48,7 @@ If you found this project is helpful for your research, 🌟STAR🌟 this reposi
 
 
 ## Citation
-** TBD (double-blind review)
+Park, Jin-Duk, Kyung-Min Kim, and Won-Yong Shin. "CF-KAN: Kolmogorov-Arnold network-based collaborative filtering to mitigate catastrophic forgetting in recommender systems." arXiv preprint arXiv:2409.05878 (2024).
 
 ## Etc.
 For the implementation of KANs, I've referred to the following repos: [EfficentKAN](https://github.com/Blealtan/efficient-kan), [Visualization API](https://github.com/KindXiaoming/pykan)
