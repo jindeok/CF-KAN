@@ -48,6 +48,7 @@ If you found this project is helpful for your research, 🌟STAR🌟 this reposi
 
 
 ## Citation
+link: https://arxiv.org/abs/2409.05878
 @article{park2024cf,
   title={CF-KAN: Kolmogorov-Arnold network-based collaborative filtering to mitigate catastrophic forgetting in recommender systems},
   author={Park, Jin-Duk and Kim, Kyung-Min and Shin, Won-Yong},
